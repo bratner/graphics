@@ -1,0 +1,1 @@
+/usr/bin/gcc      CMakeFiles/transformation.dir/transformation.o CMakeFiles/transformation.dir/glm.o  -o transformation -rdynamic -lglut -lXmu -lXi 

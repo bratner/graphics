@@ -1,0 +1,1 @@
+/usr/bin/gcc      CMakeFiles/lightposition.dir/lightposition.o CMakeFiles/lightposition.dir/glm.o  -o lightposition -rdynamic -lglut -lXmu -lXi 

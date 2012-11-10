@@ -1,0 +1,1 @@
+/usr/bin/gcc      CMakeFiles/shapes.dir/shapes.o CMakeFiles/shapes.dir/glm.o  -o shapes -rdynamic -lglut -lXmu -lXi 

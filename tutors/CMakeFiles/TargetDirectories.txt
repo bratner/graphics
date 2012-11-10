@@ -1,0 +1,7 @@
+/home/bratner/projects/graphics/tutors/CMakeFiles/fog.dir
+/home/bratner/projects/graphics/tutors/CMakeFiles/lightmaterial.dir
+/home/bratner/projects/graphics/tutors/CMakeFiles/lightposition.dir
+/home/bratner/projects/graphics/tutors/CMakeFiles/projection.dir
+/home/bratner/projects/graphics/tutors/CMakeFiles/shapes.dir
+/home/bratner/projects/graphics/tutors/CMakeFiles/texture.dir
+/home/bratner/projects/graphics/tutors/CMakeFiles/transformation.dir

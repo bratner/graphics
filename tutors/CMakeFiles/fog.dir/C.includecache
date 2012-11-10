@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bratner/projects/graphics/tutors/fog.c
+math.h
+-
+stdio.h
+-
+stdlib.h
+-
+stdarg.h
+-
+string.h
+-
+glm.h
+/home/bratner/projects/graphics/tutors/glm.h
+
+/home/bratner/projects/graphics/tutors/glm.c
+math.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+assert.h
+-
+glm.h
+/home/bratner/projects/graphics/tutors/glm.h
+
+/home/bratner/projects/graphics/tutors/glm.h
+GLUT/glut.h
+-
+GL/glut.h
+-
+

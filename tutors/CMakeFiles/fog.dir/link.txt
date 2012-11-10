@@ -1,0 +1,1 @@
+/usr/bin/gcc      CMakeFiles/fog.dir/fog.o CMakeFiles/fog.dir/glm.o  -o fog -rdynamic -lglut -lXmu -lXi 

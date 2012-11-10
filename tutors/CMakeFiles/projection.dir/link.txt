@@ -1,0 +1,1 @@
+/usr/bin/gcc      CMakeFiles/projection.dir/projection.o CMakeFiles/projection.dir/glm.o  -o projection -rdynamic -lglut -lXmu -lXi 

@@ -1,0 +1,1 @@
+/usr/bin/gcc      CMakeFiles/texture.dir/texture.o CMakeFiles/texture.dir/glm.o  -o texture -rdynamic -lglut -lXmu -lXi 

@@ -1,0 +1,1 @@
+/usr/bin/gcc      CMakeFiles/lightmaterial.dir/lightmaterial.o CMakeFiles/lightmaterial.dir/glm.o  -o lightmaterial -rdynamic -lglut -lXmu -lXi 
